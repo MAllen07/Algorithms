@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import math
-#function that receives a recipe in the form of a dictionary,
+#function that receives a recipe in the form of a dictionary
 
 def recipe_batches(recipe, ingredients):
 
